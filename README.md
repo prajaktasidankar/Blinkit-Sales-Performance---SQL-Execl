@@ -58,3 +58,5 @@ The dataset includes transactional records from grocery outlets and contains the
 - pgAdmin4  
 - Google Sheets (for previewing dataset)  
 - VS Code
+
+Dashboard Preview: https://github.com/prajaktasidankar/Blinkit-Sales-Performance---SQL-Execl/blob/main/Blinkit_Excel_Dashboard.png
